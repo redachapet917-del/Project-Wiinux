@@ -1,5 +1,5 @@
 # Welcome to Wiinux
-Welcome to the Wiinux repo!
+Welcome to the Wiinux repo! ALSO, we don't really have anything yet... so wait please... will be edited once complet alright
 
 ## Head over to...
 - **Releases** page, in order to download the latest version of the app and learn its changes:\
